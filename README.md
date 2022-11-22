@@ -1,2 +1,0 @@
-# coovtech
-My Static Webpage
